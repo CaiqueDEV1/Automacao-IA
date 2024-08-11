@@ -7,7 +7,7 @@
  - O webcam.release serve para que a webcam, depois de usada, seja liberada para ser usada em outros apps.</h3>
 
 
-<h3>Utilizamos as bibliotecas:</h3>
+<h2>Utilizamos as bibliotecas:</h2>
 - cvzone
 - opencv-python
 - mediapipe
